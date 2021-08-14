@@ -17,10 +17,10 @@ fi
 git commit -m "$msg"
 
 # Push atau puload ke Github
-git push origin master
+git push origin main
 
 # Balik ke direktori sebelumnya
-cd ..
+
 git push -u origin master
 masalexf
 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
